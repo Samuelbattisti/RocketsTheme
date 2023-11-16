@@ -1,0 +1,20 @@
+
+.fragment_804 {
+	.title-frag{
+	color: red;
+	font-size: 1.5rem;
+}
+.card-frag {
+	color: red;
+}
+.btn-frag {
+	border: 1px solid red;
+	color: red;
+}
+.btn-frag {
+	&:hover {
+		background: red;
+		color: white;
+	}
+}
+}

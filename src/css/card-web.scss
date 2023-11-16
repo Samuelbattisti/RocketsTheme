@@ -1,0 +1,24 @@
+
+
+.card-img {
+	max-width: 25rem;
+}
+.t-card {
+	font-size: 1.5rem;
+	color: red;
+}
+.p-card {
+	font-size: 1rem;
+	color: red;
+}
+.b-card {
+	color: red;
+}
+.btn-edit-card {
+	border: 1px solid red;
+	color: red;
+	&:hover {
+		color: white;
+		background-color: red;
+	}
+}
