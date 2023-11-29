@@ -1,0 +1,41 @@
+{
+    "fieldSets": [
+      {
+        "fields": [
+          {
+            "name": "numeroCarousel",
+            "label": "Numero de Items",
+            "description": "number-items",
+            "type": "text",
+            "typeOptions": {
+              "placeholder": "Placeholder"
+            },
+            "dataType": "int",
+            "defaultValue": "1"
+          },
+          {
+            "name": "imageWidth",
+            "label": "Largura da Imagem",
+            "description": "Defina a largura da imagem",
+            "type": "text",
+            "typeOptions": {
+              "placeholder": "Informe a largura (em pixels)"
+            },
+            "dataType": "int",
+            "defaultValue": "1000"
+          },
+          {
+            "name": "imageHeight",
+            "label": "Altura da Imagem",
+            "description": "Defina a altura da imagem",
+            "type": "text",
+            "typeOptions": {
+              "placeholder": "Informe a altura (em pixels)"
+            },
+            "dataType": "int",
+            "defaultValue": "300"
+          }
+        ]
+      }
+    ]
+  }

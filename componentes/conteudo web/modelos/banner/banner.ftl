@@ -3,18 +3,18 @@
           <div class="row">
               <div class="col-md-6">
                   <div class="parallax-content">
-                      <#if (Text44463594.getData())??>
+                      <#if (Text72833798.getData())??>
                           <h1>
-                              ${Text44463594.getData()}
+                              ${Text72833798.getData()}
                           </h1>
                       </#if>
-                      <#if (Text57229589.getData())??>
-                          <p> ${Text57229589.getData()}
+                      <#if (Text18578526.getData())??>
+                          <p> ${Text18578526.getData()}
                           </p>
                       </#if>
-                      <#if (Text07871461.getData())??>
-                          <button type="button" class="btn btn-info"> ${Text07871461.getData()}
-                          </button>
+                      <#if (Text18684591.getData())??>
+                          <button type="button" class="btn btn-info">
+                              ${Text18684591.getData()} </button>
                       </#if>
                   </div>
               </div>
